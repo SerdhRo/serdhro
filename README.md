@@ -29,9 +29,9 @@
 
 ## Check my content
 
-- **[0G]()**
+- **[0G Validator](https://github.com/SerdhRo/0Glabs/blob/main/0g-validator.md)**
 
-- **[0G]()**
+- **[0G Storage](https://github.com/SerdhRo/0Glabs/blob/main/0g-storage.md)**
 
 - **[Sei]()**
 
