@@ -35,6 +35,7 @@
 
 | Project | Docs |
 | --- | --- |
+|<img src="https://github.com/user-attachments/assets/a42944ba-7e75-43c8-a896-efbd317ced4c" alt="0_g_labs1711467106027" width="50" height="50"> | **[Initia](https://github.com/SerdhRo/Initia-deploy)** |
 |<img src="https://github.com/user-attachments/assets/662f8336-aa6e-48dd-983e-472867ca640f" alt="0_g_labs1711467106027" width="50" height="50"> | **[0G Validator](https://github.com/SerdhRo/0Glabs/blob/main/0g-validator.md)** |
 |<img src="https://github.com/user-attachments/assets/662f8336-aa6e-48dd-983e-472867ca640f" alt="0_g_labs1711467106027" width="50" height="50"> | **[0G Storage](https://github.com/SerdhRo/0Glabs/blob/main/0g-storage.md)** |
 |<img src="https://github.com/user-attachments/assets/5cea5c29-08c7-4fbc-88c7-b9af0edbaced" alt="SryHMGDk_400x400" width="50" height="50"> | **[Sei]()** |
