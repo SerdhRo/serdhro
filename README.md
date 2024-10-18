@@ -13,7 +13,6 @@
 
 ### 💡[Keybase](https://keybase.io/rozaserd)
 
-### 💡[Discord](https://discord.com/users/960303149434929234)
 ---
 
 ## Check my validation
